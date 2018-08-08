@@ -1,0 +1,13 @@
+C:\Users\Ehsan\Desktop\ToDo\AspNetCoreToDo\bin\Debug\netcoreapp2.0\app.db
+C:\Users\Ehsan\Desktop\ToDo\AspNetCoreToDo\bin\Debug\netcoreapp2.0\AspNetCoreToDo.deps.json
+C:\Users\Ehsan\Desktop\ToDo\AspNetCoreToDo\bin\Debug\netcoreapp2.0\AspNetCoreToDo.runtimeconfig.json
+C:\Users\Ehsan\Desktop\ToDo\AspNetCoreToDo\bin\Debug\netcoreapp2.0\AspNetCoreToDo.runtimeconfig.dev.json
+C:\Users\Ehsan\Desktop\ToDo\AspNetCoreToDo\bin\Debug\netcoreapp2.0\AspNetCoreToDo.dll
+C:\Users\Ehsan\Desktop\ToDo\AspNetCoreToDo\bin\Debug\netcoreapp2.0\AspNetCoreToDo.pdb
+C:\Users\Ehsan\Desktop\ToDo\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.csproj.CoreCompileInputs.cache
+C:\Users\Ehsan\Desktop\ToDo\AspNetCoreToDo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Ehsan\Desktop\ToDo\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.AssemblyInfoInputs.cache
+C:\Users\Ehsan\Desktop\ToDo\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.AssemblyInfo.cs
+C:\Users\Ehsan\Desktop\ToDo\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.dll
+C:\Users\Ehsan\Desktop\ToDo\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.pdb
+C:\Users\Ehsan\Desktop\ToDo\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.csprojAssemblyReference.cache

@@ -1,0 +1,36 @@
+﻿@model TodoViewModel;
+
+@{
+    ViewData["Title"]="مدیریت لیست انجام کارها";
+}
+<div class="panel panel-default todo-panel">
+    <div class="panel-heading">@ViewData["Title"]</div></div>
+
+    <table class="table table-hover table-bordered">
+        <thead>
+            <tr>
+                <td>&#x2714</td>
+                <td>کار</td>
+                <td>تاریخ</td>
+            </tr>
+        </thead>
+        @foreach (var item in Model.Items)
+        {
+            <tr>
+                <td>
+                    <input type="checkbox" name="@item.Id" value="true" class="done-checkbox">
+                </td>
+                <td>@item.Title</td>
+                <td>@item.DueAt</td>
+            </tr>
+        }
+    </table>
+    <div class="panel-footer add-item-form">
+        <form>
+            <div id="add-item-error" class="text-danger"></div>
+            <label for="add-item-title">افزودن کار جدید:</label>
+            <input id="add-item-title">
+            <button type="button" class="btn btn-sm btn-success"  id="add-item-button"><i class="glyphicon glyphicon-plus"></i></button>
+        </form>
+    </div>
+</div>
